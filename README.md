@@ -39,3 +39,20 @@ Se busca la dirección del archivo creado y se ejecuta el comando javac para cre
 Se ejecuta el comando java para correr el programa.
 
 ![Ejercicio 2_4](https://user-images.githubusercontent.com/54320247/64192259-e151b280-ce3f-11e9-85d6-1ec29f525855.jpg)
+
+# 2_2_Ejercicio_1
+
+Arte ASCII.
+
+Con lo aprendido en ésta lección. Se pide realizar una carita en arte ASCII utilizando 8 sentencias de impresión y el carácter #.
+Directamente en el bloc de notas se escribe el código y se guarda usando el procedimiento ya aprendido.
+
+![Ejercicio 3_1](https://user-images.githubusercontent.com/54320247/64192638-c2075500-ce40-11e9-9c14-cede63dc05a7.jpg)
+
+Se abre el prompt de windows y se crea el archivo -class-.
+
+![Ejercicio 3_2](https://user-images.githubusercontent.com/54320247/64192641-c5024580-ce40-11e9-83f0-8b647754503b.jpg)
+
+Finalmente se ejecuta el programa.
+
+![Ejercicio 3_3](https://user-images.githubusercontent.com/54320247/64192642-c7649f80-ce40-11e9-9a82-4e17a25edd65.jpg)
