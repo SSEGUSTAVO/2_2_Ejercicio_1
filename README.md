@@ -2,7 +2,7 @@
 
 Estructura de la clase.
 
-En este ejercicio se dibuja un gato mediante el uso de la sentencia System.out.println();.
+En este ejercicio se dibuja un gato mediante el uso de la sentencia System.out.println().
 Primero se escribe el código de ejemplo, se analiza su estructura y sintaxis, posteriormente se corre desde el entorno de NetBeans.
 
 ![Ejercicio 1_1](https://user-images.githubusercontent.com/54320247/64190316-ba917d00-ce3b-11e9-9c2d-1a85b240a51c.jpg)
