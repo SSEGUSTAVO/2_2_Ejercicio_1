@@ -30,3 +30,12 @@ Por lo que se utiliza el código anterior como método principal y se realiza ot
 Se escribe el código, ésta vez utilizando directamente el bloc de notas.
 Se guarda el archivo con el nombre de la clase añadiendo la extensión .java y con el tipo todos los archivos.
 
+![Ejercicio 2_2](https://user-images.githubusercontent.com/54320247/64192250-dd259500-ce3f-11e9-98f1-0db55f7ba014.jpg)
+
+Se busca la dirección del archivo creado y se ejecuta el comando javac para creación del archivo -class-.
+
+![Ejercicio 2_3](https://user-images.githubusercontent.com/54320247/64192254-e0208580-ce3f-11e9-911d-171defd7f1ee.jpg)
+
+Se ejecuta el comando java para correr el programa.
+
+![Ejercicio 2_4](https://user-images.githubusercontent.com/54320247/64192259-e151b280-ce3f-11e9-85d6-1ec29f525855.jpg)
