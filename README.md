@@ -20,3 +20,13 @@ De esta forma se crea el archivo class.
 Finalmente se ejecuta el comando java seguido del nombre del archivo sin extensiones.
 
 ![Ejercicio 1_4](https://user-images.githubusercontent.com/54320247/64190335-c1b88b00-ce3b-11e9-9c7d-d446bd8a09da.jpg)
+
+# 2_2_Ejercicio_2
+
+Instanciado.
+
+Una vez entendido el funcionamiento de la clase, se pide realizar en otro -método- las piernas del gato.
+Por lo que se utiliza el código anterior como método principal y se realiza otro método para colocar las piernas del gato.
+Se escribe el código, ésta vez utilizando directamente el bloc de notas.
+Se guarda el archivo con el nombre de la clase añadiendo la extensión .java y con el tipo todos los archivos.
+
